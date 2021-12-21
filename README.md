@@ -1,2 +1,2 @@
 #My demo file
-It is used to readme
+Description of my project
